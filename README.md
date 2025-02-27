@@ -4,7 +4,7 @@
 **Course:** Problem Solving - TP by *Dr. Meriem Sebai*  
 <br>  
 
-📄 **[📜 Assignment Support (PDF)](./📄chess_knight_tour_ga_project.pdf)**  
+📄 **[Project Support (PDF)](./📄chess_knight_tour_ga_project.pdf)**  
 <br>  
 
 ![♞ Knight's Tour Example](https://cdn.dribbble.com/userupload/19544331/file/original-35f99cb947a2deb51ff9ffd411d002bf.gif)  
