@@ -93,9 +93,12 @@ python __main__.py
 - 🌍 Handles the population of knights and evolves them over generations.  
 
 ---
-
 ## **🔮 Future Improvements**  
 - ⚡ **Optimize Fitness Function**: Enhance the fitness evaluation for better performance.  
 - ⚙️ **Parallel Processing**: Speed up the algorithm using parallel computation.  
 - 🖥️ **Interactive GUI**: Create a more engaging visualization for the Knight's Tour.  
 
+---
+## **👥 Team Members**  
+- **Selma Bentaiba** – [GitHub Profile](https://github.com/selma-Bentaiba)  
+- **Hadj-Yahia Nesrine** – [GitHub Profile](https://github.com/NesrineHY)  
