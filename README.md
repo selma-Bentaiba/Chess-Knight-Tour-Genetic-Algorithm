@@ -47,17 +47,17 @@ The **Knight's Tour** is a classic chess puzzle where the knight must visit ever
 ## **📦 Installation**  
 1️⃣ Clone the repository:  
 ```bash  
-git clone https://github.com/yourusername/Knights-Tour-GA.git  
+git clone https://github.com/selma-Bentaiba/Chess-Knight-Tour-Genetic-Algorithm.git  
 ```  
 
 2️⃣ Install dependencies:  
 ```bash  
-pip install numpy matplotlib  
+pip install pygame  
 ```  
 
 3️⃣ Run the solver:  
 ```bash  
-python main.py  
+python __main__.py  
 ```  
 
 ---
